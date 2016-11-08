@@ -1,0 +1,24 @@
+{
+  "name": "feirashop-Merchandising",
+  "version": "1.0.0",
+  "description": "site Merchandising feirashop",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "author": "Thiago Mendes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagotmendes/espaco-metal/issues"
+  },
+  "homepage": "https://github.com/thiagotmendes/espaco-metal#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-smushit": "^2.1.0"
+  }
+}
