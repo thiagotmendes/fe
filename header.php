@@ -4,8 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="apple-touch-icon" sizes="76x76" href="https://www.feirashop.com.br/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" href="https://www.feirashop.com.br/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="https://www.feirashop.com.br/favicon-16x16.png" sizes="16x16" />
 
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <?php wp_head() ?>
 
     <title>

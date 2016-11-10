@@ -14,6 +14,39 @@ header{
   margin-bottom: 25px;
 }
 
+.titulo-menor{
+  color: #FFD600 !important;
+}
+
+.acoes{
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+
+.garantia{
+  padding-top:30px;
+  padding-bottom: 30px;
+}
+
+.texto-superior{
+  font-size: 24px;
+  color: #6d6e71;
+}
+
+.nosso-publico{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #F4F1E8;
+}
+
+.nosso-publico .img-title{
+  background: #fff;
+}
+
+.marg-bottom{
+  margin-bottom: 28px;
+}
+
 .consumidores{
   color: #e86310;
 }
@@ -149,15 +182,6 @@ header{
 .titulo-desc {
   text-align: center;
   color: #000;
-}
-
-.nosso-publico{
-  background: #034B3D;
-  color: #333333;
-}
-
-.nosso-publico .gridfluid{
-  padding: 0px;
 }
 
 .vantagem {
@@ -337,7 +361,8 @@ header{
   color: #333;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 13px !important;
+  font-size: 12px !important;
+  padding: 10px 10px !important;
 }
 
 .navbar-feirashop .navbar-nav > li > a:hover,
@@ -365,6 +390,8 @@ header{
 
 .comercial-vantagens{
   background: #ffd426;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 /**************************************************/
